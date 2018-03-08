@@ -220,6 +220,7 @@
 
 ## GoodRx
 [Website](http://goodrx.com)
+[Github](https://github.com/GoodRx)
 
 ## Google/YouTube
 [Website](https://www.youtube.com/)
@@ -319,7 +320,7 @@
 
 ## Los Angeles Convention Center-AEG
 [Website](http://aegworldwide.com/facilities/conventioncenters/losangelesconventioncenter)
- Facility
+
 ## Los Angeles Department of Water and Power (LADWP)
 [Website](http://LADWP.COM)
 
