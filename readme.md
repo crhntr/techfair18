@@ -17,7 +17,7 @@
 [Website](http://abcotechnology.edu/)
 
 ## AMAG Technology Inc.
-[Website](http://AMAG Technology Inc)
+[Website](http://www.amag.com/en)
 
 ## Acorns Grow, Inc.
 [Website](http://acorns.com)
