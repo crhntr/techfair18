@@ -389,6 +389,7 @@
 
 ## Pivotal
 [Website](https://pivotal.io/)
+[Github](https://github.com/pivotal)
 
 ## Polar Power Inc.
 [Website](https://polarpower.com)
